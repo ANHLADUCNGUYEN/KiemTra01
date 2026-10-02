@@ -1,6 +1,6 @@
 ### Thông tin sinh viên:
-- Họ và tên: Lê Ngọc Quyền
-- Mã sinh viên: 24810310259
+- Họ và tên: Nguyễn Minh Đức
+- Mã sinh viên: 24810310226
 
 ---
 
